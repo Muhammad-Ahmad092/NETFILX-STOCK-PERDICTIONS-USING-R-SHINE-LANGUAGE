@@ -5,6 +5,13 @@ This repository contains a data science and machine learning project built with 
 
 ---
 
+## Live On
+
+Project Deploy on HuggFace space.
+[Live](https://huggingface.co/spaces/mahmad92/netflix-stock-prediction)
+
+---
+
 ## 🎯 Project Objective
 
 Predict the future stock prices of Netflix (NFLX) using historical data and regression-based machine learning models. The goal is to support investors and analysts in making informed decisions.
